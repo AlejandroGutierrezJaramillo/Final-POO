@@ -1,0 +1,36 @@
+body{
+    background-image: url(Images/books-1702790_1280.jpg);
+    background-repeat: no-repeat;
+    
+}
+form{
+    background-image: url(Images/books-1702790_1280.jpgs);
+    width: 40%;
+    height: 80%;
+    border-radius: 10px;
+}
+.form-control {
+    background-color: black;
+}
+.form-label{
+    color: aliceblue;
+}
+.form-text{
+    color: beige;
+}
+.form-check-label{
+    background-color: black;
+    color: #fff;
+}
+.btn{
+    color: #fff;
+    background-color: #0b0b0c;
+    border-color: white;
+}
+.link{
+    text-decoration: none;
+    color: #fff;
+}
+.h1-titulo-h{
+le: #0b0b0c;
+}
